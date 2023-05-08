@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CourseWork.DATA_ACCESS": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52933;http://localhost:52934"
+    }
+  }
+}
